@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-selfcheck.json
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data
+data/
+*.csv
+*.parquet
+*.feather
+*.pkl
+*.pickle
+
+# IDE
+.vscode/
+.idea/
+.qodo/
+
+# Environment
+.env
+*.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
