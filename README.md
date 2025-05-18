@@ -22,7 +22,7 @@ Project Structure
 Setup Instructions
 
 Clone the Repository
-git clone https://github.com/your-username/solar-challenge-week1.git
+git clone https://github.com/YishakG/solar-challenge-week1.git
 cd solar-challenge-week1
 
 
